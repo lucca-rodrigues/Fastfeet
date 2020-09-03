@@ -1,11 +1,11 @@
 <h1 align="center">
 
-  <img alt="Fastfeet" title="Fastfeet" src=".github/logo.png" width="300px" />
+  <img alt="Fastfeet" title="Fastfeet" src="https://github.com/rocketseat-education/bootcamp-gostack-desafio-02/blob/master/.github/logo.png" width="300px" />
 
 </h1>
 
 <h3 align="center">
-  Desafio 2: FastFeet, o início
+  Desafio: FastFeet
 </h3>
 
 <p align="center">
@@ -20,10 +20,6 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-02?style=social">
   </a>
 
-</p>
-<p align="center">
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 ## :rocket: Sobre o desafio
 A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app para uma transportadora fictícia, o FastFeet.
